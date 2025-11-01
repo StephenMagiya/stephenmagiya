@@ -1,16 +1,44 @@
-## Hi there 👋
+### Hi there 👋 I'm Stephen Magiya
 
-<!--
-**StephenMagiya/stephenmagiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Software Developer** with a background in **Education** and a passion for building impactful digital solutions.  
+After earning my **Bachelor’s in Education (Arts)**, I transitioned into tech — completing a **Full-Stack Software Development program at Moringa School** (Jan–Aug 2025).  
 
-Here are some ideas to get you started:
+💡 My experience in education taught me how to solve problems creatively, communicate clearly, and keep learning — skills I now apply to writing clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frontend:** React, Bootstrap  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, PostgreSQL  
+- **Version Control:** Git & GitHub  
+- **Other Tools:** REST APIs, Postman, Figma  
+
+---
+
+### 🚀 Projects
+Here are some projects I’ve worked on (more coming soon!):
+- 🧾 **[Ajali App]** –  ( “An incident reporting app built with React and Express”)  
+- 🌍 **[A weather App]** – (“A weather dashboard using an external API”)  
+
+*(Add project links once they’re ready — pinned repos are great for this.)*
+
+---
+
+### 🌱 What I’m Currently Doing
+- Expanding my knowledge in **TypeScript** and **cloud deployment**  
+- Contributing to **open-source** and collaborating on community projects  
+- Building my **developer portfolio**  
+
+---
+
+### 📫 Let’s Connect!
+- 📧 **Email:** [stephenmagiya97@gmail.com]  
+- 💼 [LinkedIn](www.linkedin.com/in/stephen-magiya-2088a2302)  
+- 🌐 [Portfolio](#) *(coming soon!)*  
+
+---
+
+> “Learning never stops — whether it’s in the classroom or in code.”
+

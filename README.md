@@ -22,7 +22,7 @@ Here are some projects I’ve worked on (more coming soon!):
 - 🧾 **[Ajali App]** –  ( “An incident reporting app built with React and Express”)  
 - 🌍 **[A weather App]** – (“A weather dashboard using an external API”)  
 
-*(Add project links once they’re ready — pinned repos are great for this.)*
+
 
 ---
 
